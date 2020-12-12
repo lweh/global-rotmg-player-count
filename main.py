@@ -21,5 +21,5 @@ async def rule(ctx):
 
 client.run("token")
 
-
-#this is the simplest bot a human can do, therefore no readme, if u cant set this up ur mentally handicapped
+#if u cant set this up, sorry to tell u but u r retarded
+#aka add ur token in 'token' and in the discord channel run '>playercount'
